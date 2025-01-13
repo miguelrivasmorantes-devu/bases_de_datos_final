@@ -6,6 +6,8 @@ CREATE DEFINER=`root`@`%` PROCEDURE `consultas_miguel_rivas`()
 BEGIN
 
 -- Consultas --
+Intersección
+unión
 
 
 
